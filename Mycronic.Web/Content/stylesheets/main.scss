@@ -1,0 +1,24 @@
+﻿//
+// More about SASS structure: 
+// http://www.sitepoint.com/architecture-sass-project/
+//
+
+// Helpers
+@import "helpers/variables";
+@import "helpers/functions";
+@import "helpers/mixins";
+
+// Base stuff
+@import "base/reset";
+@import "base/typography";
+@import "base/general";
+@import "base/utils";
+
+// Layout-file stuff
+
+// Components and modules, like forms and tables
+
+// Page-specific stylesheets
+
+// Block-specific stylesheets
+

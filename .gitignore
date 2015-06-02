@@ -1,0 +1,19 @@
+*_ReSharper*
+obj/
+bin/
+csx/
+*.user
+*.suo
+*.resharper
+*.cache
+*Thumbs.db
+Thumbs.db
+*.log
+.DS_Store
+Web.Publish.xml
+License.config
+EPiServerErrorLog.txt
+
+# SQL Server files
+*/App_Data/*.mdf
+*/App_Data/*.ldf
